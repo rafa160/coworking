@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1093579907281",
+    "firebase_url": "https://lojaflutter-3ca30.firebaseio.com",
+    "project_id": "lojaflutter-3ca30",
+    "storage_bucket": "lojaflutter-3ca30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093579907281:android:19bfbaf37d7f85531625f0",
+        "android_client_info": {
+          "package_name": "br.com.store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093579907281-7l70v10bdm1cb4gq49i266drsd9fg6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyULp9cEv5qZwCjMTB_-9IIYmjWtOV-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093579907281-7l70v10bdm1cb4gq49i266drsd9fg6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093579907281:android:67cdf968650d9f05",
+        "android_client_info": {
+          "package_name": "br.com.virtual_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093579907281-7l70v10bdm1cb4gq49i266drsd9fg6io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkyULp9cEv5qZwCjMTB_-9IIYmjWtOV-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093579907281-7l70v10bdm1cb4gq49i266drsd9fg6io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
